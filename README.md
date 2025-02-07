@@ -32,7 +32,7 @@ IMEI Check Bot
 4. Сервер возвращает результат проверки обратно боту.
 5. Бот отображает результат пользователю.
 
-Инструкция для получения токенов:
+Список ссылок для получения токенов:
 1. https://imeicheck.net/developer-api (API_TOKEN_SANDBOX)
 2. https://telegram.me/BotFather (TELEGRAM_BOT_TOKEN)
 3. https://t.me/getmyid_bot (WHITE_LIST_USERS)
