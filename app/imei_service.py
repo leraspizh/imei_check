@@ -40,3 +40,4 @@ def check_imei_api(request: Dict[str, str]) -> Dict[str, Any]:
 
     response = requests.post(CHECKS_URL, headers=headers, data=body)
     return response.json()
+
