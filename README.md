@@ -14,6 +14,7 @@ IMEI Check Bot
 1. Конфигурационные настройки (config.py)
 2. Зависимости (requirements.txt)
 
+
             Запуск проекта
 1. Установка всех необходимых зависимостей:
     pip install -r requirements.txt
