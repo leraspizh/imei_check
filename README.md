@@ -9,6 +9,7 @@ IMEI Check Bot
 Проект состоит из двух основных частей:
 1. Telegram Bot (bot/bot.py)
 2. FastAPI сервер (app/main.py, app/imei_service.py)
+   
 В проекте так же вынесены в отдельные файлы зависимости и настройки(url,api,token):
 1. Конфигурационные настройки (config.py)
 2. Зависимости (requirements.txt)
