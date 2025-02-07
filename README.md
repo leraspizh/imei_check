@@ -33,6 +33,6 @@ IMEI Check Bot
 5. Бот отображает результат пользователю.
 
 Список ссылок для получения токенов:
-1. https://imeicheck.net/developer-api (API_TOKEN_SANDBOX),в config он указан,но можно сгенерировать свой api_token
+1. https://imeicheck.net/developer-api (API_TOKEN_SANDBOX),в config он указан,но можно сгенерировать свой api key
 2. https://telegram.me/BotFather (TELEGRAM_BOT_TOKEN)
 3. https://t.me/getmyid_bot (WHITE_LIST_USERS)
